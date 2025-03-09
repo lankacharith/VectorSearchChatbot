@@ -1,0 +1,1 @@
+This project demonstrates how to build a chatbot that can answer questions based on custom documentation. It leverages OpenAI's GPT model, Langchain, and MongoDB Atlas for embedding and vector search functionality. The chatbot pulls data from the Bacalhau documentation, allowing users to ask questions about contributing to Bacalhau, and get answers based on the official docs.

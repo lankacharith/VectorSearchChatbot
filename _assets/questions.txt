@@ -1,0 +1,3 @@
+What is the best way to help with bacalhau.org??
+How do I setup Bacalhau to run locally?
+What type of license is the Bacalhau codebase released under?
